@@ -1,0 +1,7 @@
+.env.dist
+LICENSE
+README.md
+.gitignore
+.idea/
+.flake8
+Dockerfile
